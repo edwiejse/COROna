@@ -216,11 +216,3 @@ width: 100%;
     padding-right: 40px;
     }
 }
-@media(min-width: 1200px){
-    .text{
-        height: 400px;
-    }
-    .text .txt{
-        margin-bottom: -40px;
-    }
-}
